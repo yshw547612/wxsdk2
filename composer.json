@@ -1,0 +1,12 @@
+{
+    "name": "wxsdk/wxsdk",
+    "description": "weixin login auth",
+    "keywords": ["wxsdk", "wechat", "weixin"],
+    "license": "MIT",
+    "require": {
+        "curl/curl": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {"weixin\\": "src/"}
+    }
+}
