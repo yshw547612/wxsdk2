@@ -3,6 +3,7 @@
     "description": "weixin login auth",
     "keywords": ["wxsdk", "wechat", "weixin"],
     "license": "MIT",
+    "version": "1.0.0",
     "require": {
         "curl/curl": "^2.0"
     },
